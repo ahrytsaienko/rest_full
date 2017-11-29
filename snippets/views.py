@@ -6,7 +6,7 @@ from rest_framework.response import Response
 from rest_framework import status
 
 
-class Snippet_list(APIView):
+class Snippetlist(APIView):
     """
     List all snippets, or create a new snippet.
     """
